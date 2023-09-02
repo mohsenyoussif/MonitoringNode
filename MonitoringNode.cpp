@@ -22,7 +22,7 @@
 /* Code Be - // OperateSafe() 
 		   - // OperateOperational () 
 */ 
-#defie OperationMode() // OperateSafe() 
+#define OperationMode() // OperateSafe() 
 
 using namespace std::chrono_literals;
 
